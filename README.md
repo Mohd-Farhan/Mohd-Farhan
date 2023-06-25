@@ -1,10 +1,5 @@
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEmKDgNkpzbfQ/profile-displaybackgroundimage-shrink_350_1400/0/1677821778846?e=1687392000&v=beta&t=6_jhHF9ODvSikVifcoYZYzR_y2dnDN4cwiK19wA6uI0)](https://github.com/Mohd-Farhan)
 
-<div align="right">
-    <img src="https://visitcount.itsvg.in/api?id=Mohd-Farhan&icon=0&color=0">
-    <img src="https://komarev.com/ghpvc/?username=Mohd-Farhan&style=for-the-badge">
-</div>
-    
-## Hi there👋👋, I am Mohd. Farhan Siddiqui
 <!--
 **Mohd-Farhan/Mohd-Farhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,147 +14,84 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## :computer:  My GitHub Stats
 
-<p width=600em margin=10px align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Farhan&theme=flag-india&hide_border=false"/><br>
+- 🌱 I’m currently learning **Android Development, Machine Learning, Data Science**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Mohd-Farhan/](https://github.com/Mohd-Farhan/)<!--[https://arshadportfolio.netlify.app/](https://arshadportfolio.netlify.app/)-->
+
+- 💬 Ask me about **Java, Firebase, Python, ML, Data Science, SQL, MongoDB**
+
+- 📫 How to reach me **mohammadfarhan3255@gmail.com**
+
+- 📄 Know about my experiences [Certificates](https://drive.google.com/drive/folders/180pOga51by0oyrBU3MrCsHcXKC9auPiE)
+
+# Mohd. Farhan Siddiqui
+I'm a developer with a strong background in **ML**, **Data Science**, **Java**, **Python**, **Android Development** and **Data Engineering** tasks, both for research or industry. I also worked for a while in Android Development, and Data Science.
+
+I'm curently interested into everything that is around data science models: Mlops, Data Engineering, DevOps and code quality, model integration/deployements via CICDs, etc.
+
+### Technical stack (non-exhaustive, non-ordered)
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ni_labview/ni_labview-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/azurecontainerregistry/azurecontainerregistry-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/mohd-farhan-siddiqui-54433a235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://kaggle.com/mdarshadsiddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<!--    
+<a href="https://dev.to/arshad_siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev" height="30" width="40" /></a>
+<a href="https://twitter.com/arshad_1357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.facebook.com/arshad1303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/arshad___2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://medium.com/@arshadid135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+<a href="https://www.youtube.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
+    -->
+<a href="https://www.hackerrank.com/mohammadfarhan31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
+<a href="https://leetcode.com/mohammadfarhan3255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mohammadfaofo4/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
 </p>
-<p width=600em margin=10px align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Farhan&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
+<p align="center">
+  <a>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Farhan&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+  </a>
 </p>
-<p width=600em margin=10px align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Farhan&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true"/>
+
+<p align="center">
+  <a href="https://github.com/Mohd-Farhan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohd-Farhan&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/Mohd-Farhan">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Farhan&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
 </p>
 
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Mohd-Farhan&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Mohd-Farhan)
 
----
-
-<div align="center">
-    <table>
-      <thead>
-        <tr>
-          <th colspan="8">Languages</th>
-        </tr>
-      </thead>
-      <tr> 
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> </td>
-      </tr>
-      <tr> 
-        <td align="center" width=110>Python</td>
-        <td align="center" width=110>Matlab</td>
-        <td align="center" width=110>JavaScript</td>
-        <td align="center" width=110>Node.JS</td>
-        <td align="center" width=110>MySQL</td>
-        <td align="center" width=110>HTML</td>
-        <td align="center" width=110>Java</td>
-        <td align="center" width=110>Kotlin</td>
-      </tr>
-      </tr>
-     </table>
-     ---
-     <table>
-       <thead>
-       <tr>
-         <th colspan="7">Tools</th>
-        </tr>
-      </thead>
-      <tr>
-        <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> </td>
-      </tr>
-      <tr> 
-        <td align="center" width=110>WebPack</td>
-        <td align="center" width=110>Heroku</td>
-        <td align="center" width=110>Figma</td>
-        <td align="center" width=110>RSpec</td>
-        <td align="center" width=110>Git</td>
-        <td align="center" width=110>GitHub</td>
-        <td align="center" width=110>GitLab</td>
-      </tr>
-      <tr>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/></td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> </td> 
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> 
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td>
-      </tr>
-      <tr> 
-        <td align="center" width=110>Android Studio</td>
-        <td align="center" width=110>IntelliJ</td>
-        <td align="center" width=110>VSCode</td>
-        <td align="center" width=110>Visual Studio</td>
-        <td align="center" width=110>Vim</td>
-        <td align="center" width=110>Google Cloud</td>
-        <td align="center" width=110>CodePen</td>
-      </tr>
-      <tr>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td>
-        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></td>
-      </tr>
-      <tr> 
-        <td align="center" width=110>Docker</td>
-        <td align="center" width=110>ESLint</td>
-        <td align="center" width=110>Gradle</td>
-        <td align="center" width=110>Jenkins</td>
-        <td align="center" width=110>JetBrains</td>
-        <td align="center" width=110>Jira</td>
-        <td align="center" width=110>Yarn</td>
-      </tr>
-    </table>
-    ---
-    <table>
-        <thead>
-        <tr>
-          <th colspan="7">Operating Systems</th>
-        </tr>
-        </thead>
-       <tr>
-        <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
-         <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
-         <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/> </td>
-         <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td>
-         <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> </td>
-         <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/> </td>
-         <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/> </td>
-      </tr>
-      <tr> 
-        <td align="center" width=110>Windows</td>
-        <td align="center" width=110>Linux</td>
-        <td align="center" width=110>Android</td>
-        <td align="center" width=110>Ubuntu</td>
-        <td align="center" width=110>Debian</td>
-        <td align="center" width=110>Fedora</td>
-        <td align="center" width=110>ChromeOS</td>
-      </tr>
-    </table>
-    ---
-</div>
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mohd-Farhan&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Mohd-Farhan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohd-Farhan&label=Profile%20views&color=0e75b6&style=flat" alt="Mohd-Farhan" /> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Mohd-Farhan?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Mohd-Farhan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
